@@ -3,9 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author: Roshita Seelam
+author_profile: true
 ---
 ![Roshita Seelam](/assets/images/gtgt.jpg){: .avatar}
-# hello!
+# Hello! I'm Roshita Seelam
 Data Enthusiast, programmer and . Please go to my work [My work](/mywork)
 
 
