@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Roshita Seelam](/assets/images/IMG_2808.jpg){: .avatar}
+![Roshita Seelam](/assets/images/gtgt.jpg){: .avatar}
 # hello!
 Data Enthusiast, programmer and . Please go to my work [My work](/mywork)
 
